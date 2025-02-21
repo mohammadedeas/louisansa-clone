@@ -172,19 +172,19 @@ body {
   max-width: 1200px;
 
   margin: 0 auto;
-  
+
   padding: 20px;
-  
+
   display: flex;
   align-items: center;
   gap: 20px;
-  
+
   background-color: #FF8762;
-  
+
   border-radius: 20px;
   margin-top: 120px;
   margin-bottom: 20px;
-  
+
   box-sizing: border-box;
 }
 
@@ -330,7 +330,7 @@ body {
   color: white;
   padding: 20px 0;
   text-align: center;
-  position: fixed !important;
+  position: relative;
 
   bottom: 0;
   width: 100%;
